@@ -13,15 +13,20 @@ namespace MeuPortfolio.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
+        public IActionResult Projetos()
+        {
+            return View();
+        }
+        public IActionResult Sobre()
         {
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Contato()
         {
             return View();
         }
+
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()

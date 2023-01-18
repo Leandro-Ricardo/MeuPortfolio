@@ -3,16 +3,16 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - MeuPortfolio</title>
+    <title>@ViewData["Title"] - Leandro Ricardo de Sousa</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/MeuPortfolio.styles.css" asp-append-version="true" />
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar fixed-top navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+        <nav class="navbar navbar-expand-sm navbar fixed-top navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow shadow p-3 mb-5 rounded">
             <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">MeuPortfolio</a>
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Projetos"><img src="~/lib/img/L.png" alt="Logo Portfólio" height="30" width="32+"></a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -20,12 +20,21 @@
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                            <strong><a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Projetos">Projetos</a></strong>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                            <strong><a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Sobre">Sobre</a></strong>
+                        </li>
+                        <li class="nav-item">
+                            <strong><a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Contato">Contato</a></strong>
                         </li>
                     </ul>
+                    <form class="fixed-left">
+                        <a href="https://github.com/leandroricardodev"><img src="~/lib/img/logogithub.png" alt="Logo Github" height="20" width="20"></a>
+                        <br>                        
+                        <a href="https://www.linkedin.com/in/leandroricardodesousa/"><img src="~/lib/img/logolinkedin.png" alt="Logo Linkedin" height="18" width="20"></a>
+
+                    </form>
                 </div>
             </div>
         </nav>
@@ -37,8 +46,8 @@
     </div>
 
     <footer class="border-top footer text-muted">
-        <div class="container fixed-bottom bg-white box-shadow mb-3">
-            &copy; 2023 - Meu Portfólio - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        <div class="container bg-white box-shadow mb-0">
+            &copy; 2023 - Portfólio - Leandro Ricardo de Sousa - <a asp-area="" asp-controller="Home" asp-action="Contato">Contato</a>
         </div>
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
