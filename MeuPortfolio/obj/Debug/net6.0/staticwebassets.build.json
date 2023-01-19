@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5DGkx2VBj0omNFZq1lMUdxRKazGO2rh9fcNRAid7C5k=",
+  "Hash": "XGknmJvBHQU9vkV+X6Lu+M0vQ99GQlhoe0QLtpWS2OM=",
   "Source": "MeuPortfolio",
   "BasePath": "_content/MeuPortfolio",
   "Mode": "Default",
@@ -916,6 +916,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\img\\logolinkedin.png"
+    },
+    {
+      "Identity": "C:\\Projetos\\MeuPortfolio\\MeuPortfolio\\wwwroot\\lib\\img\\logowhatsapp.png",
+      "SourceId": "MeuPortfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projetos\\MeuPortfolio\\MeuPortfolio\\wwwroot\\",
+      "BasePath": "_content/MeuPortfolio",
+      "RelativePath": "lib/img/logowhatsapp.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\img\\logowhatsapp.png"
     },
     {
       "Identity": "C:\\Projetos\\MeuPortfolio\\MeuPortfolio\\wwwroot\\lib\\jquery\\dist\\jquery.js",

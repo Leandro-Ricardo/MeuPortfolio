@@ -16,3 +16,44 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.divwhatsapp {
+    margin: auto;    
+    background: white;
+    text-align: left;
+    float: right;
+    width: 1040px;
+    font-size: 14px
+}
+
+.divtabela1{   
+    margin: auto;
+    margin-top: auto;   
+    background: #d5f8f8;
+    width: 30%;    
+    float: left;   
+    
+}
+
+.divtabela2 {
+    margin: auto;
+    margin-top: auto;
+    background: #d5f8f8;
+    width: 30%;    
+}
+
+.divtabela3 {
+    margin: auto;
+    margin-top: -30%;
+    background: #d5f8f8;
+    width: 30%;
+    float: right;
+}
+
+.visible {
+    visibility: visible !important;
+}
+
+.invisible {
+    visibility: hidden !important;
+}
