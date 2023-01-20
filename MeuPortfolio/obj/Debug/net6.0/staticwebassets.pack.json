@@ -197,20 +197,24 @@
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
+      "Id": "C:\\Projetos\\MeuPortfolio\\MeuPortfolio\\wwwroot\\lib\\img\\FotoPerfil.png",
+      "PackagePath": "staticwebassets\\lib\\img\\FotoPerfil.png"
+    },
+    {
       "Id": "C:\\Projetos\\MeuPortfolio\\MeuPortfolio\\wwwroot\\lib\\img\\L.png",
       "PackagePath": "staticwebassets\\lib\\img\\L.png"
     },
     {
-      "Id": "C:\\Projetos\\MeuPortfolio\\MeuPortfolio\\wwwroot\\lib\\img\\logogithub.png",
-      "PackagePath": "staticwebassets\\lib\\img\\logogithub.png"
+      "Id": "C:\\Projetos\\MeuPortfolio\\MeuPortfolio\\wwwroot\\lib\\img\\background.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\background.jpg"
+    },
+    {
+      "Id": "C:\\Projetos\\MeuPortfolio\\MeuPortfolio\\wwwroot\\lib\\img\\logogithubamarelo.png",
+      "PackagePath": "staticwebassets\\lib\\img\\logogithubamarelo.png"
     },
     {
       "Id": "C:\\Projetos\\MeuPortfolio\\MeuPortfolio\\wwwroot\\lib\\img\\logolinkedin.png",
       "PackagePath": "staticwebassets\\lib\\img\\logolinkedin.png"
-    },
-    {
-      "Id": "C:\\Projetos\\MeuPortfolio\\MeuPortfolio\\wwwroot\\lib\\img\\logowhatsapp.png",
-      "PackagePath": "staticwebassets\\lib\\img\\logowhatsapp.png"
     },
     {
       "Id": "C:\\Projetos\\MeuPortfolio\\MeuPortfolio\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",

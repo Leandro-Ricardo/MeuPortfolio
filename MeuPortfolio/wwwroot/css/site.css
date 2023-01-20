@@ -1,59 +1,138 @@
 html {
-  font-size: 14px;
+    font-size: 14px;
 }
 
 @media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
+    html {
+        font-size: 16px;
+    }
 }
 
 html {
-  position: relative;
-  min-height: 100%;
+    position: relative;
+    min-height: 100%;
 }
 
 body {
-  margin-bottom: 60px;
+    margin-bottom: 60px;
 }
 
-.divwhatsapp {
-    margin: auto;    
-    background: white;
-    text-align: left;
-    float: right;
-    width: 1040px;
-    font-size: 14px
+.backgroundimage {
+    background-image: url('../lib/img/background.jpg');    
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center;
+
 }
 
-.divtabela1{   
+.divtabela1 {
     margin: auto;
-    margin-top: auto;   
-    background: #d5f8f8;
-    width: 30%;    
-    float: left;   
-    
+    margin-top: auto;
+    background: none;
+    width: 30%;
+    text-align: center;
+    color: azure;
+    text-shadow: -4px -1px 4px #000000;
+    overflow-y: visible;
+    float: none;
+    scroll-padding-left: 10px;
 }
 
 .divtabela2 {
     margin: auto;
     margin-top: auto;
-    background: #d5f8f8;
-    width: 30%;    
+    background: #b6ff00;
+    width: 30%;
+    text-align: center;
+    color: azure;
+    text-shadow: -4px -1px 4px #000000;
+    overflow-y: visible;  
+    float:left;
 }
 
 .divtabela3 {
     margin: auto;
-    margin-top: -30%;
-    background: #d5f8f8;
+    margin-top: auto;
+    background: #b6ff00;
     width: 30%;
+    text-align: center;
+    color: azure;
+    text-shadow: -4px -1px 4px #000000;
+    overflow-y: visible;
+    width: 30%;
+    float: left;
+}
+.divtabela4 {
+    margin: auto;
+    margin-top: auto;
+    background: #b6ff00;
+    width: 30%;
+    text-align: center;
+    color: azure;
+    text-shadow: -4px -1px 4px #000000;
+    overflow-y: visible;
+    width: 30%;
+    float: left;
+}
+
+.divwelcome {
+    margin-top: 11%;
+    margin-bottom: 5%;
+    color: white;
+    text-shadow: -4px -1px 4px #000000;
+    text-align: center;
+}
+
+.divletra1 {
+    color: white;
+    text-shadow: -1px -1px 1px #000000;
+    font-size: 20px
+}
+
+.divletra2 {
+    color: white;
+    font-size: 18px;
+    text-shadow: -1px 2px 1px #000000;
+}
+.divletra3 {
+    color: white;
+    font-size: 110%;
+    text-shadow: -1px 2px 1px #000000;
+   
+}
+
+.divviewdata {
+    color: white;
+    margin-bottom: 10%;
+}
+
+.divsobre {
+    margin: auto;
+    margin-top: auto;
+    background: none;
+    width: 70%;
+    text-align: center;
+    color: azure;
+    text-shadow: -4px -1px 4px #000000;
+    overflow-y: visible;
     float: right;
 }
 
-.visible {
-    visibility: visible !important;
+.divformularioemail {
+    margin: auto;
+    margin-top: auto;
+    background: none;
+    color: white;   
+    text-shadow: -1px 2px 1px #000000;
+    float: none;
+}
+.divformularioredes {
+    margin: auto;
+    margin-top: auto;
+    background: none;
+    color: white;
+    text-shadow: -1px 2px 1px #000000;
+    float: right;
+    width: auto;
 }
 
-.invisible {
-    visibility: hidden !important;
-}

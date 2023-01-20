@@ -13,6 +13,10 @@ namespace MeuPortfolio.Controllers
             _logger = logger;
         }
 
+        public IActionResult Perfil()
+        {
+            return View();
+        }
         public IActionResult Projetos()
         {
             return View();

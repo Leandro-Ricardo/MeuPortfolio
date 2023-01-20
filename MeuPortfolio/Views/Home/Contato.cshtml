@@ -1,27 +1,34 @@
 ﻿@{
     ViewData["Title"] = "Contato"; ;
 }
-<h1>@ViewData["Title"]</h1>
+<h1 class="divviewdata">@ViewData["Title"]:</h1>
 
-<br>
-<br>
-<br>
-<br>
-<h3>Contato:</h3>
+
 <hr>
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <form action="https://formsubmit.co/864b1e997234ea98a489de6a1482c2ab" method="POST">
+                <div class="divformularioemail">
+                    <label for="email">E-mail:</label>
+                    <input type="email" name="email" class="form-control" data-ls-module="charCounter" maxlength="50" style="max-width:400px" placeholder="seuemail@email.com" required>
+                    <label for="message">Mensagem:</label>
+                    <textarea type="text" id="message" name="message" class="form-control" data-ls-module="charCounter" maxlength="1000" style="max-width:600px;max-height:200px" rows="8" placeholder="Digite aqui sua mensagem..." required></textarea>
+                    <button type="submit" class="btn btn-primary btn-sm">Enviar</button>
+                    <button type="reset" class="btn btn-secondary btn-sm">Apagar</button>
+                </div>
+            </form>
+            <div class="divformularioredes">
+            </div>
+        </div>
+        <div class="col text-center navbar-text">            
+            <a class="nav-link active" aria-current="page" href="https://www.linkedin.com/in/leandroricardodesousa/"><img src="~/lib/img/logolinkedin.png" alt="Logo Linkedin" width="18%"><p class="divletra3">Meu perfil profissional<br>no Linkedin</p></a>
+            <a class="nav-link active" aria-current="page" href="https://github.com/leandroricardodev"><img src="~/lib/img/logogithubamarelo.png" alt="Logo Github" width="18%"><p class="divletra3">Meus códigos<br>no Github</p></a>
+        </div>
 
-<form action="https://formsubmit.co/864b1e997234ea98a489de6a1482c2ab" method="POST">
-    <div>
-        <label for="email">E-mail:</label>
-        <input type="email" name="email" class="form-control" data-ls-module="charCounter" maxlength="50" style="max-width:400px" placeholder="seuemail@email.com" required>
-        <label for="message">Mensagem:</label>
-        <textarea type="text" id="message" name="message" class="form-control" data-ls-module="charCounter" maxlength="1000" style="max-width:600px;max-height:200px" rows="8" placeholder="Sua mensagem..." required></textarea></p>        
-    <button type="submit" class="btn btn-primary btn-sm">Enviar</button>
-    <button type="reset" class="btn btn-secondary btn-sm">Apagar</button>    
+        <div class="col text-white text-left">           
+        </div>
     </div>
-</form>
-
-
-
+</div>
 
 

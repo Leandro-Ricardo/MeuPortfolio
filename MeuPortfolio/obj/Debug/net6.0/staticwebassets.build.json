@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "XGknmJvBHQU9vkV+X6Lu+M0vQ99GQlhoe0QLtpWS2OM=",
+  "Hash": "P5IFhG1nTf9FNia9icP5OS4ggYIhSAS8NGvfqgKJeis=",
   "Source": "MeuPortfolio",
   "BasePath": "_content/MeuPortfolio",
   "Mode": "Default",
@@ -867,6 +867,40 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
+      "Identity": "C:\\Projetos\\MeuPortfolio\\MeuPortfolio\\wwwroot\\lib\\img\\background.jpg",
+      "SourceId": "MeuPortfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projetos\\MeuPortfolio\\MeuPortfolio\\wwwroot\\",
+      "BasePath": "_content/MeuPortfolio",
+      "RelativePath": "lib/img/background.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\img\\background.jpg"
+    },
+    {
+      "Identity": "C:\\Projetos\\MeuPortfolio\\MeuPortfolio\\wwwroot\\lib\\img\\FotoPerfil.png",
+      "SourceId": "MeuPortfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projetos\\MeuPortfolio\\MeuPortfolio\\wwwroot\\",
+      "BasePath": "_content/MeuPortfolio",
+      "RelativePath": "lib/img/FotoPerfil.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\img\\FotoPerfil.png"
+    },
+    {
       "Identity": "C:\\Projetos\\MeuPortfolio\\MeuPortfolio\\wwwroot\\lib\\img\\L.png",
       "SourceId": "MeuPortfolio",
       "SourceType": "Discovered",
@@ -884,12 +918,12 @@
       "OriginalItemSpec": "wwwroot\\lib\\img\\L.png"
     },
     {
-      "Identity": "C:\\Projetos\\MeuPortfolio\\MeuPortfolio\\wwwroot\\lib\\img\\logogithub.png",
+      "Identity": "C:\\Projetos\\MeuPortfolio\\MeuPortfolio\\wwwroot\\lib\\img\\logogithubamarelo.png",
       "SourceId": "MeuPortfolio",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Projetos\\MeuPortfolio\\MeuPortfolio\\wwwroot\\",
       "BasePath": "_content/MeuPortfolio",
-      "RelativePath": "lib/img/logogithub.png",
+      "RelativePath": "lib/img/logogithubamarelo.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -898,7 +932,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\img\\logogithub.png"
+      "OriginalItemSpec": "wwwroot\\lib\\img\\logogithubamarelo.png"
     },
     {
       "Identity": "C:\\Projetos\\MeuPortfolio\\MeuPortfolio\\wwwroot\\lib\\img\\logolinkedin.png",
@@ -916,23 +950,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\img\\logolinkedin.png"
-    },
-    {
-      "Identity": "C:\\Projetos\\MeuPortfolio\\MeuPortfolio\\wwwroot\\lib\\img\\logowhatsapp.png",
-      "SourceId": "MeuPortfolio",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\MeuPortfolio\\MeuPortfolio\\wwwroot\\",
-      "BasePath": "_content/MeuPortfolio",
-      "RelativePath": "lib/img/logowhatsapp.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\img\\logowhatsapp.png"
     },
     {
       "Identity": "C:\\Projetos\\MeuPortfolio\\MeuPortfolio\\wwwroot\\lib\\jquery\\dist\\jquery.js",
