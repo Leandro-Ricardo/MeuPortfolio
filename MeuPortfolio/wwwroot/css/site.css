@@ -18,11 +18,10 @@ body {
 }
 
 .backgroundimage {
-    background-image: url('../lib/img/background.jpg');    
+    background-image: url('../lib/img/background.jpg');
     background-size: cover;
     background-repeat: no-repeat;
-    background-position:center;
-
+    background-position: center;
 }
 
 .divtabela1 {
@@ -46,8 +45,8 @@ body {
     text-align: center;
     color: azure;
     text-shadow: -4px -1px 4px #000000;
-    overflow-y: visible;  
-    float:left;
+    overflow-y: visible;
+    float: left;
 }
 
 .divtabela3 {
@@ -62,6 +61,7 @@ body {
     width: 30%;
     float: left;
 }
+
 .divtabela4 {
     margin: auto;
     margin-top: auto;
@@ -94,16 +94,17 @@ body {
     font-size: 18px;
     text-shadow: -1px 2px 1px #000000;
 }
+
 .divletra3 {
     color: white;
     font-size: 110%;
     text-shadow: -1px 2px 1px #000000;
-   
 }
 
 .divviewdata {
     color: white;
-    margin-bottom: 10%;
+    margin-top: 4%;
+    margin-bottom: 4%;
 }
 
 .divsobre {
@@ -122,25 +123,44 @@ body {
     margin: auto;
     margin-top: auto;
     background: none;
-    color: white;   
+    color: white;
     text-shadow: -1px 2px 1px #000000;
     float: none;
 }
-.divformularioredes {
-    margin: auto;
-    margin-top: auto;
+
+.form-control {
     background: none;
+    background-color: none;
     color: white;
-    text-shadow: -1px 2px 1px #000000;
+    max-height: 200px;
+    max-width: 600px;
+}
+
+    .form-control::placeholder {
+        color: white;
+        background: none;
+        background-color: none;
+    }
+
+    .form-control:placeholder-shown {
+        color: white;
+        background: none;
+        background-color: none;
+    }
+    .form-control:not(:placeholder-shown) {
+        color: white;
+        background: none;
+        background-color: none;
+    }
+
+.DeixeSuaMensagemContato{
+    margin: auto;
+    margin-top: 2%;
     float: right;
-    width: auto;
-}
-
-.navbar-nav > li > a {
-    color: red;
-}
-
-.navbar-nav > li:hover > a,
-.navbar-nav > li.active > a {
-    color: blueviolet;
+    color: white;
+    text-align: left;
+    font-family: Impact;
+    font-size: 4vh;
+    
+    
 }

@@ -197,6 +197,10 @@
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
+      "Id": "C:\\Projetos\\MeuPortfolio\\MeuPortfolio\\wwwroot\\lib\\img\\Contato.png",
+      "PackagePath": "staticwebassets\\lib\\img\\Contato.png"
+    },
+    {
       "Id": "C:\\Projetos\\MeuPortfolio\\MeuPortfolio\\wwwroot\\lib\\img\\FotoPerfil.png",
       "PackagePath": "staticwebassets\\lib\\img\\FotoPerfil.png"
     },

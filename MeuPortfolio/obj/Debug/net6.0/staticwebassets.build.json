@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "P5IFhG1nTf9FNia9icP5OS4ggYIhSAS8NGvfqgKJeis=",
+  "Hash": "fMAUQgIa5Po/t3qnuV51Twf4syzudEsiqwt6TkabWGQ=",
   "Source": "MeuPortfolio",
   "BasePath": "_content/MeuPortfolio",
   "Mode": "Default",
@@ -882,6 +882,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\img\\background.jpg"
+    },
+    {
+      "Identity": "C:\\Projetos\\MeuPortfolio\\MeuPortfolio\\wwwroot\\lib\\img\\Contato.png",
+      "SourceId": "MeuPortfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projetos\\MeuPortfolio\\MeuPortfolio\\wwwroot\\",
+      "BasePath": "_content/MeuPortfolio",
+      "RelativePath": "lib/img/Contato.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\img\\Contato.png"
     },
     {
       "Identity": "C:\\Projetos\\MeuPortfolio\\MeuPortfolio\\wwwroot\\lib\\img\\FotoPerfil.png",
