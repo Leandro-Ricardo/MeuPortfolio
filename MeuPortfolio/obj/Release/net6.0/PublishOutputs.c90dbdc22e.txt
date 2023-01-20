@@ -1,0 +1,7 @@
+C:\Projetos\MeuPortfolio\MeuPortfolio\obj\Release\net6.0\PubTmp\Out\MeuPortfolio.exe
+C:\Projetos\MeuPortfolio\MeuPortfolio\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Projetos\MeuPortfolio\MeuPortfolio\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Projetos\MeuPortfolio\MeuPortfolio\obj\Release\net6.0\PubTmp\Out\MeuPortfolio.dll
+C:\Projetos\MeuPortfolio\MeuPortfolio\obj\Release\net6.0\PubTmp\Out\MeuPortfolio.deps.json
+C:\Projetos\MeuPortfolio\MeuPortfolio\obj\Release\net6.0\PubTmp\Out\MeuPortfolio.runtimeconfig.json
+C:\Projetos\MeuPortfolio\MeuPortfolio\obj\Release\net6.0\PubTmp\Out\MeuPortfolio.pdb
