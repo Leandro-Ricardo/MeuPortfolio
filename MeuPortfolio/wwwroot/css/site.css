@@ -136,3 +136,11 @@ body {
     width: auto;
 }
 
+.navbar-nav > li > a {
+    color: red;
+}
+
+.navbar-nav > li:hover > a,
+.navbar-nav > li.active > a {
+    color: blueviolet;
+}
