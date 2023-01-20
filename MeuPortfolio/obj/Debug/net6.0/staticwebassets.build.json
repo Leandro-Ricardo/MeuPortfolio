@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fMAUQgIa5Po/t3qnuV51Twf4syzudEsiqwt6TkabWGQ=",
+  "Hash": "78B4mtAVfzKPGgRvVNLn6P+MzAXqxaEMkhOk19GFCNg=",
   "Source": "MeuPortfolio",
   "BasePath": "_content/MeuPortfolio",
   "Mode": "Default",
@@ -916,23 +916,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\img\\FotoPerfil.png"
-    },
-    {
-      "Identity": "C:\\Projetos\\MeuPortfolio\\MeuPortfolio\\wwwroot\\lib\\img\\L.png",
-      "SourceId": "MeuPortfolio",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\MeuPortfolio\\MeuPortfolio\\wwwroot\\",
-      "BasePath": "_content/MeuPortfolio",
-      "RelativePath": "lib/img/L.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\img\\L.png"
     },
     {
       "Identity": "C:\\Projetos\\MeuPortfolio\\MeuPortfolio\\wwwroot\\lib\\img\\logogithubamarelo.png",
