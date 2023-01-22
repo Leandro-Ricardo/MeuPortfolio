@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fjxZZ7m0hrrpgRH2bUgs1WCTYNMzLye2xA0EkzkZAzk=",
+  "Hash": "B/4V8AiY/axAJ/w47d9mawrkLzuGnxCisDbi+31DCJk=",
   "Source": "MeuPortfolio",
   "BasePath": "_content/MeuPortfolio",
   "Mode": "Default",
@@ -68,12 +68,12 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Projetos\\MeuPortfolio\\MeuPortfolio\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Projetos\\MeuPortfolio\\MeuPortfolio\\wwwroot\\Icon.ico",
       "SourceId": "MeuPortfolio",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Projetos\\MeuPortfolio\\MeuPortfolio\\wwwroot\\",
       "BasePath": "_content/MeuPortfolio",
-      "RelativePath": "favicon.ico",
+      "RelativePath": "Icon.ico",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -82,7 +82,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\favicon.ico"
+      "OriginalItemSpec": "wwwroot\\Icon.ico"
     },
     {
       "Identity": "C:\\Projetos\\MeuPortfolio\\MeuPortfolio\\wwwroot\\js\\site.js",
