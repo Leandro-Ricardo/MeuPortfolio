@@ -209,6 +209,10 @@
       "PackagePath": "staticwebassets\\lib\\img\\background.jpg"
     },
     {
+      "Id": "C:\\Projetos\\MeuPortfolio\\MeuPortfolio\\wwwroot\\lib\\img\\logogithub.png",
+      "PackagePath": "staticwebassets\\lib\\img\\logogithub.png"
+    },
+    {
       "Id": "C:\\Projetos\\MeuPortfolio\\MeuPortfolio\\wwwroot\\lib\\img\\logogithubamarelo.png",
       "PackagePath": "staticwebassets\\lib\\img\\logogithubamarelo.png"
     },

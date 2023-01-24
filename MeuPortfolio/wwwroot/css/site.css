@@ -34,48 +34,47 @@ body {
     text-shadow: -4px -1px 4px #000000;
 }
 
-.divwelcome {
+.divBemVindo {
     margin-top: 11%;
-    margin-bottom: 5%;
-    color: white;
-    text-shadow: -4px -1px 4px #000000;
+    margin-bottom: 2%;
+    color: gray;
     text-align: center;
 }
 
-.divletra1 {
+.divLetraMenuNavBar {
     color: white;
-    text-shadow: -1px -1px 1px #000000;
-    font-size: 20px
+    text-shadow: 0px 0px 3px #000000;
+    font-size: 15px
 }
+
+    .divLetraMenuNavBar:hover {
+        color: #d7d7d7;
+        font-size: 15px;
+    }
+
 
 .divletra2 {
-    color: white;
-    font-size: 18px;
-    text-shadow: -1px 2px 1px #000000;
+    color: gray;
+    font-size: 20px;
+    text-shadow: 0px 0px 0px #000000;
 }
 
-.divletra3 {
-    color: white;
-    font-size: 110%;
-    text-shadow: -1px 2px 1px #000000;
-}
-
-.divviewdata {
-    color: white;
+.divViewData {
+    color: gray;
     margin-top: 10%;
 }
 
-.divsobre {
+.divSobre {
     margin: auto;
     margin-top: auto;
     background: none;
     width: 70%;
     text-align: right;
-    text-shadow: -4px -1px 4px #000000;
+    text-shadow: 0px 1px 1px #000000;
     float: right;
-    color: white;
-    font-size: 2.2vh;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serifA
+    color: gray;
+    font-size: 2vh;
+    font-family: Verdana;
 }
 
 .divformularioemail {
@@ -90,47 +89,46 @@ body {
 .form-control {
     background: none;
     background-color: none;
-    color: white;
+    color: gray;
     max-height: 200px;
     max-width: 600px;
 }
 
     .form-control::placeholder {
-        color: white;
+        color: gray;
         background: none;
         background-color: none;
     }
 
     .form-control:placeholder-shown {
-        color: white;
+        color: gray;
         background: none;
         background-color: none;
     }
 
     .form-control:not(:placeholder-shown) {
-        color: white;
+        color: gray;
         background: none;
         background-color: none;
     }
+    .form-control:hover{
+        color: gray;        
+    }
 
-.DeixeSuaMensagemContato {
-    margin: auto;
-    margin-top: 2%;
-    float: right;
-    color: white;
-    text-align: left;
-    font-family: Impact;
-    font-size: 4vh;
-}
+    .DeixeSuaMensagemContato {
+        margin: auto;
+        margin-top: 2%;
+        float: right;
+        color: white;
+        text-align: left;
+        font-family: Impact;
+        font-size: 4vh;
+    }
 
 .FotoSobre {
     margin: auto;
     margin-top: auto;
     background: none;
     width: 30%;
-    color: azure;
-    text-shadow: -4px -1px 4px #000000;
-    overflow-y: visible;
     float: left;
-    scroll-padding-left: 10px;
 }
