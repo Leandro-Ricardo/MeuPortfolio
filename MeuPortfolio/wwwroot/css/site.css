@@ -44,19 +44,27 @@ body {
 .divLetraMenuNavBar {
     color: white;
     text-shadow: 0px 0px 3px #000000;
-    font-size: 15px
+    font-size: clamp(0.75em, 0.75em + 1vw, 1.2em)
 }
 
     .divLetraMenuNavBar:hover {
         color: #d7d7d7;
-        font-size: 15px;
+        font-size: clamp(0.75em, 0.75em + 1vw, 1.2em)
     }
 
 
-.divletra2 {
-    color: gray;
-    font-size: 20px;
-    text-shadow: 0px 0px 0px #000000;
+
+.divLetraDoInicio {
+    margin-top: 20%;
+    color: Black;
+    font-family: 'Clarendon BT';
+    font-size: clamp(0.75em, 1em + 4vw, 5em)
+}
+.divLetraDoInicioNome {
+    margin-top: 3%;
+    color: Black;
+    font-size: clamp(0.50em, 1em + 4vw, 0.50em);
+    font-family: Arial;
 }
 
 .divViewData {
@@ -69,11 +77,10 @@ body {
     margin-top: auto;
     background: none;
     width: 70%;
-    text-align: right;
-    text-shadow: 0px 1px 1px #000000;
+    text-align: justify;
     float: right;
     color: gray;
-    font-size: 2vh;
+    font-size: clamp(0.50em, 0.50em + 2vw, 1.5em);
     font-family: Verdana;
 }
 
@@ -115,15 +122,15 @@ body {
         color: gray;        
     }
 
-    .DeixeSuaMensagemContato {
-        margin: auto;
-        margin-top: 2%;
-        float: right;
-        color: white;
-        text-align: left;
-        font-family: Impact;
-        font-size: 4vh;
-    }
+.DeixeSuaMensagemContato {
+    margin: auto;
+    margin-top: 2%;
+    float: right;
+    color: gray;
+    text-align: left;
+    font-family: Impact;
+    font-size: clamp(0.30em, 1em + 2.3vw, 3em);
+}
 
 .FotoSobre {
     margin: auto;
